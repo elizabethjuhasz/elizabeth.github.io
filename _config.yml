@@ -1,3 +1,5 @@
+theme: jeykll-theme-hyde
+
 # Dependencies
 markdown:         redcarpet
 highlighter:      pygments
