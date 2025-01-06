@@ -1,4 +1,4 @@
-theme: jeykll-theme-minimal
+theme: jekyll-theme-hyde
 
 # Dependencies
 markdown:         redcarpet
