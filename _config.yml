@@ -1,4 +1,4 @@
-theme: jeykll-theme-hyde
+theme: jeykll-theme-minimal
 
 # Dependencies
 markdown:         redcarpet
